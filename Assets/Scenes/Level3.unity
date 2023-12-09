@@ -989,6 +989,10 @@ PrefabInstance:
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6381824431783628705, guid: 93abb8748103a994aa12ad8bd52510aa, type: 3}
+      propertyPath: m_GravityScale
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6381824431783628707, guid: 93abb8748103a994aa12ad8bd52510aa, type: 3}
       propertyPath: songPause
       value: 
